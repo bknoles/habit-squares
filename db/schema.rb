@@ -15,8 +15,8 @@ ActiveRecord::Schema.define(:version => 20130617232018) do
 
   create_table "data_sources", :force => true do |t|
     t.string   "type"
-    t.boolean  "green"
     t.string   "count"
+    t.boolean  "green"
     t.date     "date"
     t.datetime "created_at", :null => false
     t.datetime "updated_at", :null => false
