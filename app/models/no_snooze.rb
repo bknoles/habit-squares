@@ -1,3 +1,3 @@
 class NoSnooze < TappableDataSource
-  @description = "Did I snooze today?"
+  @description = "Did I avoid snooze today?"
 end
