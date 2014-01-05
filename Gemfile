@@ -15,6 +15,8 @@ gem 'pg'
 gem 'milkman'
 gem 'dropbox-sdk'
 
+gem 'newrelic_rpm'
+
 group :production do 
   gem 'rails_12factor'
 end

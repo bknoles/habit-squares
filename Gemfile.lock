@@ -79,6 +79,7 @@ GEM
     multi_json (1.7.5)
     multi_xml (0.5.2)
     multipart-post (1.1.5)
+    newrelic_rpm (3.7.1.182)
     nokogiri (1.5.9)
     oauth (0.4.7)
     pg (0.14.1)
@@ -159,6 +160,7 @@ DEPENDENCIES
   jquery-rails
   json
   milkman
+  newrelic_rpm
   nokogiri
   pg
   pry
